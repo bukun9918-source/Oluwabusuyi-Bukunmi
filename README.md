@@ -8,21 +8,21 @@ I am a recent grraduate with a profound interest in technology and a dedication 
 ## Objectives
 [Provide Objectives]
 
-My journey started in quantity surveying where i develop the passion for cybersecurity, and i am now eager to transition into this field, specifically aiming to join a team or a company of ethical hackers and penetration testers as a berginner pentester.
+My journey started in quantity surveying where i develop the passion for cybersecurity, and i am now eager to transition into this field, specifically aiming to join a team or a company of ethical hackers and penetration testers as a berginner level pentester.
 
 ## Skills
 [Provide skills and associated project. Make sure to hypelink the project]
 
 | Skill                                                        | Associated Project                     |
 |--------------------------------------------------------------|----------------------------------------|
-|Network Security Fundamentals                                 |                                        |
-|Wireshark Traffic Analysis                                    |                                        |
+|Network Security Fundamentals                                 | <a href="https://github.com/bukun9918-source/Network-Security-Monitoring-Lab">Network security Monitoring Lab</a>|
+|Wireshark Traffic Analysis                                    | <a href="https://github.com/bukun9918-source/Network-Security-Monitoring-Lab">Network security Monitoring Lab</a>|
 |Basic Penetration Testing                                     |                                        |
 |Vulnerability Scaning (Nmap)                                  |                                        |
-|HTTP & DNS Analysis                                           |                                        |
+|HTTP & DNS Analysis                                           | <a href="https://github.com/bukun9918-source/Network-Security-Monitoring-Lab">Network security Monitoring Lab</a>|
 |Linux Fundamentals                                            |                                        |
 |Incident Response(Berginner Level)                            |                                        |
-|Problem Solving & Analytical Thinking                         |                                        |
+|Problem Solving & Analytical Thinking                         | <a href="https://github.com/bukun9918-source/Network-Security-Monitoring-Lab">Network security Monitoring Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGpt to help create the link]
@@ -35,3 +35,5 @@ My journey started in quantity surveying where i develop the passion for cyberse
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
 <div>
   
+## Projects
+- <a href="https://github.com/bukun9918-source/Network-Security-Monitoring-Lab">Network security Monitoring Lab</a>
